@@ -1,0 +1,6 @@
+id_forma_pago;nombre_forma_pago
+1;Se paga en Sinpe
+2;Deposita en cuenta
+3;Pago con transferencia
+4;Se paga en dólares
+5;Pago con E-cheq

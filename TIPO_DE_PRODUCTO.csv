@@ -1,0 +1,22 @@
+1;TP    ;Tasa de Publicidad
+2;HO    ;Honorarios
+3;GOA   ;Gastos Oficinas Avellaneda
+4;GOI   ;Gastos Oficinas Inclán
+5;GC    ;Gastos Computación
+6;CS    ;Compra de Servicios
+7;CB    ;Compra de Bienes
+8;GG    ;Gastos Generales
+9;GE    ;Gastos de Explotación
+10;GB    ;Gastos Bancarios
+11;SC    ;Servicios Comerciales
+12;PP    ;Publicidad y Promoción
+13;RI    ;Recupero Impositivo
+14;GOD   ;Gastos Oficinas Defensa
+15;GR    ;Gastos Rodados
+16;CE    ;Consumo de Energía
+17;CAP   ;Arquitectura Publicitaria
+18;GO    ;Gastos Oficinas Sinclair
+19;FJ    ;Fijaciones
+20;IM    ;Impresiones
+21;SG    ;Seguros
+22;GP    ;Gastos Personal
